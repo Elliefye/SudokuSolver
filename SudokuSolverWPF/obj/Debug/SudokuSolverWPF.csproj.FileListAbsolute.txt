@@ -1,0 +1,15 @@
+D:\Eli\Code\C#\SudokuSolverWPF\SudokuSolverWPF\obj\Debug\SudokuSolverWPF.csprojResolveAssemblyReference.cache
+D:\Eli\Code\C#\SudokuSolverWPF\SudokuSolverWPF\obj\Debug\MainWindow.g.cs
+D:\Eli\Code\C#\SudokuSolverWPF\SudokuSolverWPF\obj\Debug\App.g.cs
+D:\Eli\Code\C#\SudokuSolverWPF\SudokuSolverWPF\obj\Debug\SudokuSolverWPF_MarkupCompile.cache
+D:\Eli\Code\C#\SudokuSolverWPF\SudokuSolverWPF\obj\Debug\SudokuSolverWPF_MarkupCompile.lref
+D:\Eli\Code\C#\SudokuSolverWPF\SudokuSolverWPF\bin\Debug\SudokuSolverWPF.exe.config
+D:\Eli\Code\C#\SudokuSolverWPF\SudokuSolverWPF\bin\Debug\SudokuSolverWPF.exe
+D:\Eli\Code\C#\SudokuSolverWPF\SudokuSolverWPF\bin\Debug\SudokuSolverWPF.pdb
+D:\Eli\Code\C#\SudokuSolverWPF\SudokuSolverWPF\obj\Debug\MainWindow.baml
+D:\Eli\Code\C#\SudokuSolverWPF\SudokuSolverWPF\obj\Debug\SudokuSolverWPF.g.resources
+D:\Eli\Code\C#\SudokuSolverWPF\SudokuSolverWPF\obj\Debug\SudokuSolverWPF.Properties.Resources.resources
+D:\Eli\Code\C#\SudokuSolverWPF\SudokuSolverWPF\obj\Debug\SudokuSolverWPF.csproj.GenerateResource.Cache
+D:\Eli\Code\C#\SudokuSolverWPF\SudokuSolverWPF\obj\Debug\SudokuSolverWPF.csproj.CoreCompileInputs.cache
+D:\Eli\Code\C#\SudokuSolverWPF\SudokuSolverWPF\obj\Debug\SudokuSolverWPF.exe
+D:\Eli\Code\C#\SudokuSolverWPF\SudokuSolverWPF\obj\Debug\SudokuSolverWPF.pdb
